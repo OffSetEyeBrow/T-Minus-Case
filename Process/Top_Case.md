@@ -29,16 +29,19 @@ The top case of the T-Minus watch case is a very thin piece (7mm thin), so holdi
 
 ## Tooling & Machining Parameters
 
-Because of the small dimensions of the case, most of the tools used are on the smaller size, going down to a 2mm end mill, and only up to a 20mm face mill for facing. Tool list will also be available as a separate file for ease of use. 
+Because of the small dimensions of the case, most of the tools used are on the smaller size, going down to a 2mm end mill, and only up to a 20mm face mill for facing.
 
-### Tool Summary Table
+### Tool Table
 
-| Tool ID | Tool Description | Diameter (mm) | Flutes | Primary Operation | 
-| ----- | ----- | ----- | ----- | ----- | 
-| **T01** | Face Mill | 20mm | 4 flutes | Stock Facing & Squaring | 
-| **T02** | End Mill | 8mm | 2 flutes | Roughing & pocketing | 
-| **T03** | Chamfer Mill (90°) | 4mm | 2 flutes | 3D Surface Profiling & Bevels | 
-| **T04** | Spot Drill / Twist Drill | \-- | \-- | Fixture & Thread Hole Drilling | 
-| **T05** | Chamfer Mill | \-- | \-- | Edge Deburring | 
-
-> **Note:** Update image paths (`path/to/...`) with your actual relative file locations inside the repository once uploaded.
+| Tool ID | Tool Description | Diameter (mm) | Flutes | Primary Operation | Tool Image | 
+| ----- | ----- | ----- | ----- | ----- | ----- | 
+| **T01** | Face Mill | 20mm | 4 Flutes | Stock Facing & Squaring |<img width="549" height="139" alt="D20 Head" src="https://github.com/user-attachments/assets/e7a89e5f-f9a1-4b49-8074-cf3d03e80b15" />| 
+| **T02** | End Mill | 8mm | 2 Flutes | Roughing & Pocketing |<img width="550" height="139" alt="D8 Top" src="https://github.com/user-attachments/assets/d01a6a11-7283-4754-b33b-2e022ef7c000" />| 
+| **T03** | End Mill | 6mm | 2 Flutes | Roughing & Pocketing | | 
+| **T04** | End Mill | 4mm | 2 Flutes | Roughing & Finishing |<img width="439" height="109" alt="D4 Top" src="https://github.com/user-attachments/assets/42ab9791-aebc-4629-a71b-d6fccb1cf677" />| 
+| **T05** | End Mill | 3mm | 2 Flutes | Finishing & Pocketing | | 
+| **T06** | End Mill | 2mm | 2 Flutes | Finishing & Slot Milling |<img width="549" height="138" alt="D2 Top" src="https://github.com/user-attachments/assets/df342f2c-3658-411a-809b-88cddb1312c6" />| 
+| **T07** | Chamfer Mill (90°) | 4mm | 2 flutes | Chamfer Milling, Edge Deburring & Spot Drilling|<img width="548" height="139" alt="D4 Chan" src="https://github.com/user-attachments/assets/2f039dbc-afc5-490c-8c0e-51537a08ec6a" />| 
+| **T08** | Twist Drill | 3.4mm | 2 Flutes | Fixture Holes Drilling | | 
+| **T08** | Twist Drill | 2.5mm | 2 Flutes | Screw Holes Drilling | 
+| **T10** | Twist Drill | 1.7mm | 2 Flutes | Thread Holes Drilling | 
