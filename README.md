@@ -14,7 +14,7 @@ Here you'll find in depth information to manufacture top and bottom case, intern
 
 Inside this repository i have made available blueprints with tolerances and GD&T, CAD, CAM and STLs Files, and manufactiring process specificiations for all parts. For purchased parts i will leave a link to purchase or get in contact with the given maker.
 
-Parts List and Links:
+###  Parts List and Links:
 *   **[Top Case](https://github.com/OffSetEyeBrow/T-Minus-Case/tree/main/Blueprints):** Machined, containing files and instructions on production
 *   **[Bottom Case](https://github.com/OffSetEyeBrow/T-Minus-Case/tree/main/STEPs):** Machined, containing files and instructions on production
 *   **[Internal Spacers](https://github.com/OffSetEyeBrow/T-Minus-Case/wiki):** 3D Printed (FDM), containing files and 3D printing parameters
