@@ -34,7 +34,7 @@ The top case of the T-Minus watch case is a very thin piece (7mm thin), so holdi
 
 ## Tooling & Machining Parameters
 
-Because of the small dimensions of the case, most of the tools used are on the smaller size, going down to a 2mm end mill, and only up to a 20mm face mill for facing.
+Because of the small dimensions of the case and fixture, most of the tools used are on the smaller size, going down to a 1.7mm drill, and only up to a 20mm face mill for facing.
 
 ### Tool Table
 
@@ -51,3 +51,11 @@ Because of the small dimensions of the case, most of the tools used are on the s
 | **T08** | Twist Drill | 2.5mm | 2 Flutes | Screw Holes Drilling |<img width="549" height="138" alt="Drill 2 5" src="https://github.com/user-attachments/assets/fec40374-07fd-4684-bb7d-99530e1f0153" />| 
 | **T10*****| Twist Drill | 1.7mm | 2 Flutes | Threaded Holes Drilling | **Manual Operation**  |
 | **T11*****| Manual Tap  | M2 | ---- | 1.7mm Hole Threading | **Manual Operation**  |
+
+--- 
+
+### Footnotes:
+
+* * The 6mm End Mill can be skippet by using the 8mm and the 4mm instead, leaving an extra tool slot and holder free.
+* ** The 3mm End Mill wasn't actually used in any operation, but i would suggest it for slot milling instead of the 2mm, as its exactly the size of the gap for the top case fixture parts, and its smaller than the gap for the bottom case fixture parts. There are also other operations where the 2mm end mill can be replaced with the 3mm (but not all).
+* *** Both the 1.7mm Drill and M2 Tap were used manually as i couldn't be bothered to program and make a whole other operation just for them, so i used them with a bench drill and tap drill respectively, but this could all be automated on the CNC machine.
